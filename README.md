@@ -7,7 +7,8 @@ This project aims to predict student performance based on various factors using 
 - **Data Preprocessing:** Handling missing data, feature scaling, and encoding categorical variables.
 - **Modeling:** Implementation of multiple machine learning models including Logistic Regression, Decision Trees, and Random Forest.
 - **Evaluation:** Comparison of models based on accuracy, precision, recall, and F1-score.
-- **Deployment:** Model deployment using a web-based interface (Flask Web App).
+- **Web Application:** A user-friendly interface built with Flask for predicting student outcomes.
+- **Cloud Deployment:** The application is hosted on AWS, ensuring scalability and reliability.
 
 ## Dataset
 The dataset used includes various features such as demographics, social background, and academic information. It is preprocessed to handle missing values and categorical data.
